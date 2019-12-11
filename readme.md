@@ -1,6 +1,6 @@
 ## About daily-post
 
-It's a web application that gives the users the ability to write a digital birthday or anniversary message made using Laravel. 
+A web app created using Laravel with API.
 
 ## How to install
 1. Clone this project to your directory
