@@ -1,0 +1,19 @@
+.masthead {
+  height: 100vh;
+  min-height: 500px;
+  background-image: url('https://images.pexels.com/photos/3119775/pexels-photo-3119775.jpeg?auto=compress&crop=focalpoint&cs=tinysrgb&fit=crop&h=250.0&sharp=10&w=1000 1000w,https://images.pexels.com/photos/3119775/pexels-photo-3119775.jpeg?auto=compress&crop=focalpoint&cs=tinysrgb&fit=crop&h=375.0&sharp=10&w=1500 1500w,https://images.pexels.com/photos/3119775/pexels-photo-3119775.jpeg?auto=compress&crop=focalpoint&cs=tinysrgb&fit=crop&h=500.0&sharp=10&w=2000 2000w,https://images.pexels.com/photos/3119775/pexels-photo-3119775.jpeg?auto=compress&crop=focalpoint&cs=tinysrgb&fit=crop&h=625.0&sharp=10&w=2500 2500w,https://images.pexels.com/photos/3119775/pexels-photo-3119775.jpeg?auto=compress&crop=focalpoint&cs=tinysrgb&fit=crop&h=750.0&sharp=10&w=3000 3000w,https://images.pexels.com/photos/3119775/pexels-photo-3119775.jpeg?auto=compress&crop=focalpoint&cs=tinysrgb&fit=crop&h=875.0&sharp=10&w=3500 3500w,https://images.pexels.com/photos/3119775/pexels-photo-3119775.jpeg?auto=compress&crop=focalpoint&cs=tinysrgb&fit=crop&h=1000.0&sharp=10&w=4000 4000w,https://images.pexels.com/photos/3119775/pexels-photo-3119775.jpeg?auto=compress&crop=focalpoint&cs=tinysrgb&fit=crop&h=1250.0&sharp=10&w=5000 5000w');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.divider {
+    padding: 5px;
+}
+
+.table tbody td:nth-child(3) {
+  max-width: 150px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
