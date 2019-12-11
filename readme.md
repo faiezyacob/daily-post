@@ -1,4 +1,4 @@
-## About MDM
+## About daily-post
 
 It's a web application that gives the users the ability to write a digital birthday or anniversary message made using Laravel. 
 
@@ -17,8 +17,8 @@ It's a web application that gives the users the ability to write a digital birth
 <a href="https://ibb.co/fNcXtmw"><img src="https://i.ibb.co/LgG0647/image.png" alt="image" border="0"></a>
 
 ## Demo
-You can try this out <a href="http://mydigitalmessage.000webhostapp.com/">http://mydigitalmessage.000webhostapp.com/</a>
+You can try this out <a href="http://daily-post.000webhostapp.com/">http://daily-post.000webhostapp.com/</a>
 
 ## License
 
-MyDigitalMessage is an open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Daily-post is an open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
